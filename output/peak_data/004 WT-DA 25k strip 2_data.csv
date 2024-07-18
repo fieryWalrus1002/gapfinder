@@ -1,0 +1,13 @@
+right_base,center,image_name,type,num,peak_idx,peak_height,fwhm_width,left_base
+8.89,5.82,004 WT-DA 25k strip 2,peak,0,6,34425,6.14,2.75
+17.04,12.96,004 WT-DA 25k strip 2,trough,0,12,34425,8.15,8.89
+22.84,19.94,004 WT-DA 25k strip 2,peak,1,20,34425,5.8,17.04
+31.73,27.28,004 WT-DA 25k strip 2,trough,1,27,34425,8.89,22.84
+36.85,34.29,004 WT-DA 25k strip 2,peak,2,34,34425,5.12,31.73
+45.4,41.12,004 WT-DA 25k strip 2,trough,2,41,34425,8.55,36.85
+51.18,48.29,004 WT-DA 25k strip 2,peak,3,49,34425,5.78,45.4
+59.86,55.52,004 WT-DA 25k strip 2,trough,3,56,34425,8.68,51.18
+65.46,62.62,004 WT-DA 25k strip 2,peak,4,63,32640,5.67,59.79
+74.06,69.73,004 WT-DA 25k strip 2,trough,4,70,34425,8.67,65.39
+79.34,76.7,004 WT-DA 25k strip 2,peak,5,76,34425,5.28,74.06
+88.19,83.77,004 WT-DA 25k strip 2,trough,5,84,34425,8.86,79.34

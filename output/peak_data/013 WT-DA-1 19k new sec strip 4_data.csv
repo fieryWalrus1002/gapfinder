@@ -1,0 +1,13 @@
+right_base,center,image_name,type,num,peak_idx,peak_height,fwhm_width,left_base
+9.83,7.48,013 WT-DA-1 19k new sec strip 4,peak,0,7,8415,4.7,5.13
+18.13,13.98,013 WT-DA-1 19k new sec strip 4,trough,0,12,8415,8.3,9.83
+23.25,20.69,013 WT-DA-1 19k new sec strip 4,peak,2,20,8415,5.12,18.13
+31.39,27.32,013 WT-DA-1 19k new sec strip 4,trough,2,27,8415,8.14,23.25
+36.28,33.84,013 WT-DA-1 19k new sec strip 4,peak,3,33,8415,4.89,31.39
+45.03,40.66,013 WT-DA-1 19k new sec strip 4,trough,3,40,8415,8.75,36.28
+49.63,47.33,013 WT-DA-1 19k new sec strip 4,peak,4,47,8415,4.61,45.03
+57.84,53.74,013 WT-DA-1 19k new sec strip 4,trough,4,53,8415,8.21,49.63
+62.87,60.36,013 WT-DA-1 19k new sec strip 4,peak,5,61,8415,5.02,57.84
+71.31,67.09,013 WT-DA-1 19k new sec strip 4,trough,5,67,8415,8.44,62.87
+76.25,73.78,013 WT-DA-1 19k new sec strip 4,peak,6,73,8415,4.94,71.31
+84.41,80.33,013 WT-DA-1 19k new sec strip 4,trough,6,80,8415,8.16,76.25

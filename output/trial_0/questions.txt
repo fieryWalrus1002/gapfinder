@@ -1,0 +1,14 @@
+
+
+Hello!
+
+ 
+
+I was thinking this morning over my coffee, and I had some questions. Can you help me out?
+
+    What does this experiment mean, in real world terms? You've got a hypothesis about the
+     lumen sizes and the thickness of the membranes, but I'm having trouble framing it in my head.
+    Is that hypothesis a smaller part of a bigger question? If so, what's that question?
+    Do we have existing images that you expect would show different measurements? If I had some examples of a known phenotypic difference , it would greatly aid in determining our hyper parameters.
+
+PS Hyper parameters are any variables in a machine learning algorithm that are set by the user. Essentially they are the "chosen" settings, unlike the learned parameters of the machine learning algorithm like the weighted biases of a neural network. I record these hyper parameters in the metadata file I shared yesterday. We don't have any learned parameters here, as we are using very traditional statistical learning techniques used in signal processing.

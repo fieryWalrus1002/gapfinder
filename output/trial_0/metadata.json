@@ -1,0 +1,20 @@
+{
+    "images": "data/new_strips/013 WT-DA-1 19k new sec strip 2.png, data/new_strips/013 WT-DA-1 19k new sec strip 4.png, data/new_strips/004 WT-DA 25k strip 2.png, data/new_strips/004 WT-DA 25k strip 5.png, data/new_strips/004 WT-DA 25k strip 3.png, data/new_strips/013 WT-DA-1 19k new sec strip 3.png, data/new_strips/013 WT-DA-1 19k new sec strip 1.png, data/new_strips/004 WT-DA 25k strip 4.png, data/new_strips/004 WT-DA 25k strip 1.png",
+    "clip_low": 100,
+    "clip_high": 255,
+    "min_area": 100,
+    "max_area": 1e+100,
+    "k0": 1,
+    "k1": 3,
+    "opening_iterations": 1,
+    "closing_iterations": 3,
+    "threshold_type": "otsu",
+    "th_min_value": 0,
+    "th_max_value": 255,
+    "th_block_size": 15,
+    "th_constant": 2,
+    "height_th_ratio": 0.6,
+    "width_th_ratio": 0.8,
+    "trial_number": 0,
+    "chosen_height": 0.5
+}
